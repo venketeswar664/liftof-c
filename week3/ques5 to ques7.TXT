@@ -1,0 +1,16 @@
+Q5.
+Ans-a.(ii)k is a pointer to a pointer to a pointer to a pointer to a char.
+    b.(iii) 6
+
+Q6.
+Ans-a. Structure elements can be initialized at the time of declaration.
+
+Q7.
+Ans-The size of a C structure is the sum of the sizes of its individual members, plus any padding added by the 
+compiler to ensure proper alignment.
+
+In C, the size of a structure is determined by the following factors:
+
+1.The size of each member of the structure.
+2.The alignment requirements of each member of the structure.
+3.Any padding added by the compiler to ensure that each member is properly aligned.
